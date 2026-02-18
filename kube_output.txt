@@ -1,0 +1,3 @@
+NAME                  READY   STATUS             RESTARTS   AGE
+wordcount-job-czppw   0/1     ImagePullBackOff   0          18s
+wordcount-job-d9zmv   0/1     ImagePullBackOff   0          18s
